@@ -48,6 +48,8 @@ evaluate.py             Position evaluation heuristics
 human_vs_engine_gui.py  GUI gameplay interface
 engine_match.py         Engine-vs-engine gameplay
 ```
+## Setup
+Before running the project, extract `Chess.zip` into the project directory since it contains required engine dependencies and core chess logic.
 
 ## Screenshots
 <img width="2102" height="1010" alt="Screenshot 2026-05-16 at 4 43 53 PM" src="https://github.com/user-attachments/assets/9d739413-8be6-4523-b1fd-3c869841758d" />
