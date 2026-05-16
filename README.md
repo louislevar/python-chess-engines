@@ -45,8 +45,8 @@ Chess/                  Core chess logic and board representation
 mcts.py                 Monte Carlo Tree Search engine
 minimax.py              Minimax engine with Alpha-Beta Pruning
 evaluate.py             Position evaluation heuristics
-human_vs_engine_gui.py  GUI gameplay interface
-engine_match.py         Engine-vs-engine gameplay
+usermatchGUI.py         GUI gameplay interface
+botmatch.py             Engine-vs-engine gameplay
 ```
 ## Setup
 Before running the project, extract `Chess.zip` into the project directory since it contains required engine dependencies and core chess logic.
