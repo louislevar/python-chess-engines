@@ -109,13 +109,3 @@ python botmatch.py
 ## Screenshots
 
 <img width="2102" height="1010" alt="Chess Engine GUI" src="https://github.com/user-attachments/assets/9d739413-8be6-4523-b1fd-3c869841758d" />
-
-## Future Improvements
-
-* Opening book integration
-* Endgame tablebase support
-* Improved move ordering
-* Stronger evaluation heuristics
-* Multithreaded search
-* Neural-network-assisted evaluation
-* Performance benchmarking between Minimax and MCTS
